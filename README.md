@@ -7,10 +7,15 @@
 👩‍💻 About Me
 
 🎓 4th Year Computer Science Student
+
 💻 Specialized in Front-End Development & UI/UX Design
+
 🎨 Passionate about creating clean, modern, and user-friendly interfaces
+
 ✨ Interested in combining design thinking with development to build better digital experiences
+
 🚀 Continuously learning new technologies and improving my design & development skills
+
 💡 I enjoy transforming ideas into intuitive, responsive, and visually engaging products
 
 ---
